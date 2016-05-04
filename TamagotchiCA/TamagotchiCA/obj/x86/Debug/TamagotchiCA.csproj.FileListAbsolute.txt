@@ -1,0 +1,7 @@
+C:\Users\genstu\Desktop\TamagotchiCA\TamagotchiCA\bin\Debug\TamagotchiCA.exe
+C:\Users\genstu\Desktop\TamagotchiCA\TamagotchiCA\bin\Debug\TamagotchiCA.pdb
+C:\Users\genstu\Desktop\TamagotchiCA\TamagotchiCA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\genstu\Desktop\TamagotchiCA\TamagotchiCA\obj\x86\Debug\TamagotchiCA.exe
+C:\Users\genstu\Desktop\TamagotchiCA\TamagotchiCA\obj\x86\Debug\TamagotchiCA.pdb
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\TamagotchiCA\TamagotchiCA\obj\x86\Debug\TamagotchiCA.exe
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\TamagotchiCA\TamagotchiCA\obj\x86\Debug\TamagotchiCA.pdb

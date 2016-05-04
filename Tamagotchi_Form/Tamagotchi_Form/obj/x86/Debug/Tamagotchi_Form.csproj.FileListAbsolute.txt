@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\bin\Debug\Tamagotchi_Form.exe
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\bin\Debug\Tamagotchi_Form.pdb
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.exe
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.pdb
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.exe
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.pdb
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\bin\Debug\Tamagotchi_Form.exe
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\bin\Debug\Tamagotchi_Form.pdb
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Startup.resources
+C:\Users\genstu\Desktop\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.WindowsPet.resources
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.WindowsPet.resources
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Startup.resources
+C:\Users\user\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Instructions.resources
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\bin\Debug\Tamagotchi_Form.exe
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\bin\Debug\Tamagotchi_Form.pdb
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Instructions.resources
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.WindowsPet.resources
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\WindowsFormsApplication1.Startup.resources
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.exe
+C:\Users\genstu\Desktop\Dropbox\Tamagotchi Assignment\Tamagotchi_Form\Tamagotchi_Form\obj\x86\Debug\Tamagotchi_Form.pdb
